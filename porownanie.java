@@ -6,8 +6,8 @@ public class zad3 {
 
 	public static void main(String[] args) {
 		Random rand = new Random();
-		int x = rand.nextInt(11);
-		int y = rand.nextInt(11);
+		int x = rand.nextInt(16);
+		int y = rand.nextInt(16);
 		System.out.println("Wylosowane liczby: "+x+" i "+y);
 		
 		if(x>y) {
