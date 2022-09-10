@@ -11,6 +11,7 @@ public class zad3 {
 			System.out.print(i*3+" ");
 		}
 		System.out.println("\nto: "+suma);
+		System.out.println("\nKoniec");
 	}
 
 }
