@@ -1,4 +1,3 @@
-/* Wylosuj dwie liczby i sprawdŸ czy pierwsza jest wiêksza od drugiej */
 
 import java.util.Random;
 

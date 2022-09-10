@@ -1,5 +1,3 @@
-/* Napisz program, który sprawdza czy liczba x zawiera siê w przedziale <5,10> i wyœwietl
-odpowiedni komunikat. */
 
 import java.util.Random;
 
