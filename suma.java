@@ -1,5 +1,3 @@
-// Napisz program, który liczy sumê dziesiêciu liczb z ci¹gu 5,10,15,...
-
 
 public class zad3 {
 
